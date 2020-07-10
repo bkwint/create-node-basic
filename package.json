@@ -1,0 +1,22 @@
+{
+    "name": "create-node-basic",
+    "version": "1.0.0",
+    "description": "",
+    "main": ".eslintrc.js",
+    "scripts": {
+    },
+    "bin": {
+      "create-node-basic": "./create.sh"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/bkwint/pti-project.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/bkwint/pti-project/issues"
+    },
+    "homepage": "https://github.com/bkwint/pti-project#readme",
+    "devDependencies": {}
+  }
